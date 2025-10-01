@@ -19,6 +19,10 @@ public class Department  {
             e.showDetails();
         }
     }
+    @Override
+    public String toString() {
+        return deptName;
+    }
 }
 
 
