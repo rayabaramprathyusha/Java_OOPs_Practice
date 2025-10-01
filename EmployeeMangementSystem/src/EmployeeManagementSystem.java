@@ -1,4 +1,4 @@
-// File: EmployeeManagementSystem.java
+
 public class EmployeeManagementSystem {
     public static void main(String[] args) {
         // Create company
